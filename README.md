@@ -1,1 +1,1 @@
-# demo for [CSVInput](https://github.com/hussein112/TagsInput)
+# demo for [TagsInput](https://github.com/hussein112/TagsInput)
